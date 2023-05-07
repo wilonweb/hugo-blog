@@ -3,7 +3,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/posts/mon-articl/</loc>
+	    <loc>https://wilonweb.github.io/hugo-blog/posts/mon-articl/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -14,7 +14,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/</loc>
+	    <loc>https://wilonweb.github.io/hugo-blog/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -25,7 +25,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/categories/</loc>
+	    <loc>https://wilonweb.github.io/hugo-blog/categories/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -36,7 +36,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/posts/</loc>
+	    <loc>https://wilonweb.github.io/hugo-blog/posts/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -47,7 +47,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
+	    <loc>https://wilonweb.github.io/hugo-blog/tags/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
